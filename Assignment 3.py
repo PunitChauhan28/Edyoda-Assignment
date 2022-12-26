@@ -1,3 +1,5 @@
+# Kindly enter the range limit you want to check odd & even numbers
+# for example fro this assignment please give value=10
 range_num=int(input("Enter your range: "))
 numbers = range(1,range_num)
 count_odd = 0
